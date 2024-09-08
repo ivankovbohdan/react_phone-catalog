@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.47d8e95a.css",
+    "main.css": "./static/css/main.90d40c92.css",
     "main.js": "./static/js/main.081d4d0a.js",
     "static/media/product-not-found.png": "./static/media/product-not-found.8214da88616b09290166.png",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
@@ -8,11 +8,11 @@
     "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
     "static/media/page-not-found.png": "./static/media/page-not-found.6f5b123471bc09721371.png",
     "index.html": "./index.html",
-    "main.47d8e95a.css.map": "./static/css/main.47d8e95a.css.map",
+    "main.90d40c92.css.map": "./static/css/main.90d40c92.css.map",
     "main.081d4d0a.js.map": "./static/js/main.081d4d0a.js.map"
   },
   "entrypoints": [
-    "static/css/main.47d8e95a.css",
+    "static/css/main.90d40c92.css",
     "static/js/main.081d4d0a.js"
   ]
 }
